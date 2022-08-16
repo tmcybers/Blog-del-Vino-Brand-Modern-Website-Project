@@ -1,10 +1,10 @@
-# Blog-del-Vino-Modern-Website-2022-Project
-Blog del Vino Brand web App Modern Web App Project 2022 with Improvements and Performances for the Best User Experience.
+
+# Modern Web App Project 2022 with Improvements and Performances for the Best User Experience.
 
 
-# What makes a Modern Web, taking into account not only the appearance? 
+### What makes a Modern Web, taking into account not only the appearance? 
 
-### ----> The Modern Programming Skills of Every Developer <----
+ ----> The Modern Programming Skills of Every Developer <----
 
 
 # Perfomance 'Web/App in this Project'
