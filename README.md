@@ -2,9 +2,50 @@
 # Modern Web App Project 2022 with Improvements and Performances for the Best User Experience.
 
 
-### What makes a Modern Web, taking into account not only the appearance? 
 
- ----> The Modern Programming Skills of Every Developer <----
+
+![Captura de pantalla de 2022-08-17 18-05-00](https://user-images.githubusercontent.com/97669969/185188966-62231495-c2cd-4cc8-b646-1708e2a03eef.png)
+
+
+![Captura de pantalla de 2022-08-17 18-05-26](https://user-images.githubusercontent.com/97669969/185188988-c8d41534-af87-41f3-b831-55328f620f2a.png)
+
+
+![Captura de pantalla de 2022-08-17 18-05-40](https://user-images.githubusercontent.com/97669969/185189016-06d9e126-a7e6-4650-a696-829ece48760d.png)
+
+
+
+![Captura de pantalla de 2022-08-17 18-05-52](https://user-images.githubusercontent.com/97669969/185189029-c28a4aa9-67df-4b3c-b8a8-122e30511b9f.png)
+
+
+
+![Captura de pantalla de 2022-08-17 18-06-11](https://user-images.githubusercontent.com/97669969/185189045-b9c343b6-72eb-4fde-b835-e29ca1f0ab57.png)
+
+
+![Captura de pantalla de 2022-08-17 18-06-25](https://user-images.githubusercontent.com/97669969/185189059-064b167f-1fa1-44d0-8c99-00149bba180a.png)
+
+
+![Captura de pantalla de 2022-08-17 18-06-45](https://user-images.githubusercontent.com/97669969/185189073-fe5be32b-9c99-4f2f-8326-25e5a515b870.png)
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-b689-23387424b9f7.mp4
+
+
+
+## Live: https://blogdelvino-tmcyber.netlify.app/
+
+
+
+
+
+## What makes a Modern Web, taking into account not only the appearance? 
+
+ *  The Modern Programming Skills of Every Developer
 
 
 # Perfomance 'Web/App in this Project'
@@ -33,10 +74,9 @@
 
 ## HTML 'Prefetch' 
 
-What page do we want to load as soon as possible?
-
-To know on which page to apply prefetch, I recommend: Google Analytics.
-We first need to know which page users spend the most time on, and then prefetch that page.
+* What page do we want to load as soon as possible?
+* To know on which page to apply prefetch, I recommend: Google Analytics.
+* We first need to know which page users spend the most time on, and then prefetch that page.
 
 
 ## WebP 'Format"
@@ -44,7 +84,7 @@ We first need to know which page users spend the most time on, and then prefetch
 * Using webp format, the load is very faster.
 * Let say we use .jpg size 6 mb and webp with size 3mb, webp would almost always be half, there are exceptions, and surely is more faster.
 
-#### But webp is not yet 100% supported in all browsers, like safari, but don't worry i have the key.
+* But webp is not yet 100% supported in all browsers, like safari, but don't worry i have the key-->
 
 ```bash
 
@@ -61,9 +101,9 @@ We first need to know which page users spend the most time on, and then prefetch
 			
 ## Modernizr 'Webp format'
 
-https://modernizr.com/
+* https://modernizr.com/
 
-Javascript library for Webp format.
+* Javascript library for Webp format.
 			
 
 
