@@ -1,5 +1,5 @@
 
-# Modern Web App Project 2022 with Improvements and Performances for the Best User Experience.
+# 𝕄𝕠𝕕𝕖𝕣𝕟 𝕎𝕖𝕓 𝔸𝕡𝕡 ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝟚𝟘𝟚𝟚 𝕨𝕚𝕥𝕙 𝕀𝕞𝕡𝕣𝕠𝕧𝕖𝕞𝕖𝕟𝕥𝕤 𝕒𝕟𝕕 ℙ𝕖𝕣𝕗𝕠𝕣𝕞𝕒𝕟𝕔𝕖𝕤 𝕗𝕠𝕣 𝕥𝕙𝕖 𝔹𝕖𝕤𝕥 𝕌𝕤𝕖𝕣 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖.
 
 
 
@@ -37,18 +37,18 @@ https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-
 
 
 
-## Live: https://blogdelvino-tmcyber.netlify.app/
+## 𝕃𝕚𝕧𝕖: https://blogdelvino-tmcyber.netlify.app/
 
 
 
 
 
-## What makes a Modern Web, taking into account not only the appearance? 
+## 𝕎𝕙𝕒𝕥 𝕞𝕒𝕜𝕖𝕤 𝕒 𝕄𝕠𝕕𝕖𝕣𝕟 𝕎𝕖𝕓, 𝕥𝕒𝕜𝕚𝕟𝕘 𝕚𝕟𝕥𝕠 𝕒𝕔𝕔𝕠𝕦𝕟𝕥 𝕟𝕠𝕥 𝕠𝕟𝕝𝕪 𝕥𝕙𝕖 𝕒𝕡𝕡𝕖𝕒𝕣𝕒𝕟𝕔𝕖?
 
- *  The Modern Programming Skills of Every Developer
+ *  🅃🄷🄴 🄼🄾🄳🄴🅁🄽 🄿🅁🄾🄶🅁🄰🄼🄼🄸🄽🄶 🅂🄺🄸🄻🄻🅂 🄾🄵 🄴🅅🄴🅁🅈 🄳🄴🅅🄴🄻🄾🄿🄴🅁
 
 
-# Perfomance 'Web/App in this Project'
+# Ｐｅｒｆｏｍａｎｃｅ ＇Ｗｅｂ／Ａｐｐ ｉｎ ｔｈｉｓ Ｐｒｏｊｅｃｔ＇ｅｒ
 
 
 ## ℍ𝕋𝕄𝕃 '𝔸𝕔𝕔𝕖𝕤𝕚𝕓𝕚𝕝𝕚𝕥𝕪 𝕨𝕖𝕓' 
@@ -60,26 +60,26 @@ https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-
 
 
 
-## HTML Loading "lazy"
+## ℍ𝕋𝕄𝕃 𝕃𝕠𝕒𝕕𝕚𝕟𝕘 "𝕝𝕒𝕫𝕪"
 
 * Download images as needed is reducing the load on the server, if there were 20 30 40 images are not all loaded at time.
 * They are loaded as the page is scrolled by the user.
 
 
-## HTML 'Preload' 
+## ℍ𝕋𝕄𝕃 'ℙ𝕣𝕖𝕝𝕠𝕒𝕕'
 
 * Stylesheet/css, fonts, etc, should be loaded as soon as possible, making a good experience when users are using our web/app.
 
 
 
-## HTML 'Prefetch' 
+## ℍ𝕋𝕄𝕃 'ℙ𝕣𝕖𝕗𝕖𝕥𝕔𝕙' 
 
 * What page do we want to load as soon as possible?
 * To know on which page to apply prefetch, I recommend: Google Analytics.
 * We first need to know which page users spend the most time on, and then prefetch that page.
 
 
-## WebP 'Format"
+## 𝕎𝕖𝕓ℙ '𝔽𝕠𝕣𝕞𝕒𝕥"
 
 * Using webp format, the load is very faster.
 * Let say we use .jpg size 6 mb and webp with size 3mb, webp would almost always be half, there are exceptions, and surely is more faster.
@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-
 **Label structure that in the case of not loading by webp, it would go to the next one, which would be the jpg.**			
 			
 			
-## Modernizr 'Webp format'
+## 𝕄𝕠𝕕𝕖𝕣𝕟𝕚𝕫𝕣 '𝕎𝕖𝕓𝕡 𝕗𝕠𝕣𝕞𝕒𝕥'
 
 * https://modernizr.com/
 
@@ -108,7 +108,7 @@ https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-
 
 
 
-## Meta 'Tags' 
+##𝕄𝕖𝕥𝕒 '𝕋𝕒𝕘𝕤'
 
 ```bash
 
@@ -121,7 +121,7 @@ https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-
 
 
 
-# Here’s a list of some of the most popular uses of this web today:
+#ℍ𝕖𝕣𝕖’𝕤 𝕒 𝕝𝕚𝕤𝕥 𝕠𝕗 𝕤𝕠𝕞𝕖 𝕠𝕗 𝕥𝕙𝕖 𝕞𝕠𝕤𝕥 𝕡𝕠𝕡𝕦𝕝𝕒𝕣 𝕦𝕤𝕖𝕤 𝕠𝕗 𝕥𝕙𝕚𝕤 𝕨𝕖𝕓 𝕥𝕠𝕕𝕒𝕪:
 
 
 
@@ -150,7 +150,7 @@ https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-
 
 
 
-# Website Fully Responsive:
+# 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 𝔽𝕦𝕝𝕝𝕪 ℝ𝕖𝕤𝕡𝕠𝕟𝕤𝕚𝕧𝕖:
 
 * All Ipads
 * All Mobiles 
@@ -167,9 +167,9 @@ https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-
 
 
 
-# Browser Compatibility (High-Grade)
+# 𝔹𝕣𝕠𝕨𝕤𝕖𝕣 ℂ𝕠𝕞𝕡𝕒𝕥𝕚𝕓𝕚𝕝𝕚𝕥𝕪 (ℍ𝕚𝕘𝕙-𝔾𝕣𝕒𝕕𝕖)
 
-#### Here are just some of them only -->
+####Ｈｅｒｅ ａｒｅ ｊｕｓｔ ｓｏｍｅ ｏｆ ｔｈｅｍ ｏｎｌｙ －－>
 
 
 
@@ -190,16 +190,16 @@ https://user-images.githubusercontent.com/97669969/185189254-521f6087-0113-46c4-
 * Iridium browser
 * etc
 
-# Scroll Snap Prepared 
+# 𝕊𝕔𝕣𝕠𝕝𝕝 𝕊𝕟𝕒𝕡 ℙ𝕣𝕖𝕡𝕒𝕣𝕖𝕕
 
-What?
+¿ʇɐɥM
 
 
 #### CSS Scroll Snap is a module of CSS that introduces scroll snap positions, which enforce the scroll positions that a scroll container's scrollport may end at after a scrolling operation has completed.
 
 
 
-# SEO Ready 
+# 𝕊𝔼𝕆 ℝ𝕖𝕒𝕕𝕪
 
 ### Why having an SEO Ready™ website is so important?
 To a business, any size or type of website is an investment. Not having your business website built correctly from the beginning will result in a complete waste of time and money. It’s like building a restaurant in the middle of nowhere or printing flyers that will never be mailed.
@@ -208,10 +208,10 @@ Fact: If your website does not have the right content strategy or has not been o
 
 Don’t just get a website, get an SEO Ready™ website that will gain the right positioning and visibility at the major search engines like Google™, Bing™, Yahoo™ and Ask.com™.
 
-### Fact: All my websites are built SEO Compliant, Ready and Certified™ right from the start! I deliver the best of the latest technology in website development, security, usability and search engine compatibility.
+### 𝔽𝕒𝕔𝕥: 𝔸𝕝𝕝 𝕞𝕪 𝕨𝕖𝕓𝕤𝕚𝕥𝕖𝕤 𝕒𝕣𝕖 𝕓𝕦𝕚𝕝𝕥 𝕊𝔼𝕆 ℂ𝕠𝕞𝕡𝕝𝕚𝕒𝕟𝕥, ℝ𝕖𝕒𝕕𝕪 𝕒𝕟𝕕 ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕖𝕕™ 𝕣𝕚𝕘𝕙𝕥 𝕗𝕣𝕠𝕞 𝕥𝕙𝕖 𝕤𝕥𝕒𝕣𝕥! 𝕀 𝕕𝕖𝕝𝕚𝕧𝕖𝕣 𝕥𝕙𝕖 𝕓𝕖𝕤𝕥 𝕠𝕗 𝕥𝕙𝕖 𝕝𝕒𝕥𝕖𝕤𝕥 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕚𝕟 𝕨𝕖𝕓𝕤𝕚𝕥𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥, 𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪, 𝕦𝕤𝕒𝕓𝕚𝕝𝕚𝕥𝕪 𝕒𝕟𝕕 𝕤𝕖𝕒𝕣𝕔𝕙 𝕖𝕟𝕘𝕚𝕟𝕖 𝕔𝕠𝕞𝕡𝕒𝕥𝕚𝕓𝕚𝕝𝕚𝕥𝕪.
 
 
-#### If this project help you reduce time to develop, you can give me a cup of coffee :)
+#### 🅸🅵 🆃🅷🅸🆂 🅿🆁🅾🅹🅴🅲🆃 🅷🅴🅻🅿 🆈🅾🆄 🆁🅴🅳🆄🅲🅴 🆃🅸🅼🅴 🆃🅾 🅳🅴🆅🅴🅻🅾🅿, 🆈🅾🆄 🅲🅰🅽 🅶🅸🆅🅴 🅼🅴 🅰 🅲🆄🅿 🅾🅵 🅲🅾🅵🅵🅴🅴 :)
 
 
 
